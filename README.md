@@ -26,8 +26,21 @@ Le projet se concentre sur :
 3. Analyser la distribution des sorties de chansons par année.
 4. Explorer la présence des artistes dans le top 200 mondial et leurs comptes de streaming.
 5. Examiner les corrélations entre la popularité d'une chanson et d'autres métriques disponibles.
+6. Réaliser une interface graphique développée avec la bibliothèque Tkinter, permettant une interaction facile et intuitive avec le programme d'analyse des données Spotify.
 
-## Comment exécuter
+## Fonctionnalités de l'interface
+
+- Recherche d'artistes : Permet aux utilisateurs de saisir un nom d'artiste pour obtenir des informations telles que le nombre d'abonnés, les chansons les plus populaires et les dernières chansons.
+- Recherche de chansons : Les utilisateurs peuvent rechercher des chansons spécifiques pour voir leurs détails, y compris la popularité et les artistes associés.
+- Analyse par année et genre : Offre la possibilité de filtrer les chansons par année de sortie et genre musical pour une exploration plus ciblée.
+
+## Comment utiliser l'interface
+
+- Démarrage : Lancez l'interface en exécutant le script interface.py depuis votre environnement Python.
+- Navigation : Utilisez les champs de saisie et les boutons pour naviguer dans l'application et afficher les données souhaitées.
+- Visualisation des données : Les résultats seront affichés directement dans l'interface, rendant l'analyse des données Spotify accessible à tous.
+
+## Comment exécuter les codes
 
 Les scripts Python et les notebooks pour l'analyse seront fournies, assurant que quiconque intéressé puisse reproduire nos résultats ou explorer davantage les ensembles de données.
 
