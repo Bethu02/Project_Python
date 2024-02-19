@@ -36,7 +36,7 @@ Le projet se concentre sur :
 
 ## Comment utiliser l'interface
 
-- Démarrage : Lancez l'interface en exécutant le script interface.py depuis votre environnement Python.
+- Démarrage : Lancez l'interface en exécutant le script modP3.py depuis votre environnement Python.
 - Navigation : Utilisez les champs de saisie et les boutons pour naviguer dans l'application et afficher les données souhaitées.
 - Visualisation des données : Les résultats seront affichés directement dans l'interface, rendant l'analyse des données Spotify accessible à tous.
 
